@@ -61,3 +61,9 @@ pip install customtkinter pillow
 
 Bash
 python launcher.py
+
+<img width="778" height="696" alt="Desktop Screenshot 2026 06 17 - 16 28 15 45" src="https://github.com/user-attachments/assets/a4c5089d-378d-484a-b238-ddb159521552" />
+<img width="398" height="598" alt="Desktop Screenshot 2026 06 17 - 16 24 38 68" src="https://github.com/user-attachments/assets/1e761bb4-b1ea-48e1-bf31-a218574bef8b" />
+<img width="394" height="607" alt="Desktop Screenshot 2026 06 17 - 16 24 44 15" src="https://github.com/user-attachments/assets/5ba0f726-cd52-45af-a6a8-ef6dc2c3c8fd" />
+<img width="394" height="602" alt="Desktop Screenshot 2026 06 17 - 16 24 26 27" src="https://github.com/user-attachments/assets/05bdc2e6-0b40-457a-9933-a3723e0f9243" />
+
