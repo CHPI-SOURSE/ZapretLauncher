@@ -1,1 +1,63 @@
-# ZapretLauncher
+Zapret Launcher 🚀
+English | Русский
+
+🇬🇧 English
+A lightweight, minimal graphical user interface (GUI) for managing Zapret. Designed to make running and stopping service strategies effortless, without manually dealing with console .bat files.
+
+🌟 Features
+Simple GUI: Start and stop Zapret strategies with a single click.
+
+Easy Management: Select your desired configuration file directly from a dropdown list.
+
+Lightweight: Built with customtkinter, no unnecessary clutter.
+
+Open Source: Full transparency and control over the code.
+
+🛠 Prerequisites
+Python must be installed on your system.
+
+You must have the official Zapret files (specifically the .bat files) downloaded and ready.
+
+🚀 Installation & Usage
+Download the code: Clone or download this repository.
+
+Install dependencies: Open your terminal in the project folder and run:
+
+Bash
+pip install customtkinter pillow
+Setup: Place launcher.py in the root folder of your Zapret directory (where the general*.bat and service.bat files are located).
+
+Run:
+
+Bash
+python launcher.py
+🇷🇺 Русский
+Минималистичный графический интерфейс (GUI) для управления Zapret. Создан для того, чтобы запуск и остановка обхода блокировок стали быстрыми и удобными, без необходимости каждый раз запускать консольные .bat файлы вручную.
+
+🌟 Основные возможности
+Простой интерфейс: Запуск и остановка стратегий в один клик.
+
+Удобное управление: Быстрый выбор нужного конфигурационного файла из выпадающего списка.
+
+Легкость: Программа построена на базе customtkinter, ничего лишнего.
+
+Открытый исходный код: Полная прозрачность и контроль над программой.
+
+🛠 Требования
+Python должен быть установлен на вашем компьютере.
+
+У вас должны быть скачаны официальные файлы Zapret (вам понадобятся .bat файлы).
+
+🚀 Установка и использование
+Скачайте код: Скачайте этот репозиторий.
+
+Установите зависимости: Откройте терминал в папке с проектом и выполните команду:
+
+Bash
+pip install customtkinter pillow
+Настройка: Поместите файл launcher.py в папку с распакованными файлами Zapret (туда, где лежат general*.bat и service.bat).
+
+Запуск:
+
+Bash
+python launcher.py
